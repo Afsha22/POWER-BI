@@ -126,14 +126,3 @@ The dashboard consists of **6 key visualizations**, each offering deep insights:
 # Cleaned Dashboarrd: https://github.com/Afsha22/POWER-BI/blob/main/NETFLIX%20DATA.pbix
 # Dashboard: https://github.com/Afsha22/POWER-BI/blob/main/DASHBOARD%20BI.png
 
-
-
-
-
-
-🎓 Final Year | B.Tech Mining Engineering | NIT Raipur
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/afsha22anjum)
-
----
-
-Would you like me to upload this version into your GitHub as Markdown, or create a downloadable PDF copy for sharing?
